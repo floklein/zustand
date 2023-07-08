@@ -13,7 +13,7 @@ const AddTab: FC = () => {
     <Grid item>
       <Button variant="contained" onClick={handleAddTab} disableElevation>
         Add tab
-      </Button>{" "}
+      </Button>
     </Grid>
   );
 };
